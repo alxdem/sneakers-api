@@ -1,0 +1,82 @@
+[
+    {
+        "modelId": "pegasus-39",
+        "title": "Nike Pegasus 39",
+        "subtitle": "Men's Road Running Shoes",
+        "price": 110,
+        "salePrice": 96,
+        "sizes": [
+            {
+                "value": "6",
+                "text": "39"
+            },
+            {
+                "value": "7",
+                "text": "40"
+            },
+            {
+                "value": "8",
+                "text": "41"
+            },
+            {
+                "value": "9",
+                "text": "42"
+            }
+        ],
+        "badges": [
+            "sale",
+            "news"
+        ],
+        "rating": 4.3,
+        "photos": [],
+        "gender": "M",
+        "color": "green",
+        "purpose": [
+            "run",
+            "walk"
+        ],
+        "isDiscount": true,
+        "brand": "nike"
+    },
+    {
+        "modelId": "pegasus-39",
+        "title": "Nike Pegasus 39 Red",
+        "subtitle": "Men's Shoes",
+        "salePrice": 140,
+        "sizes": [
+            {
+                "value": "6",
+                "text": "39"
+            },
+            {
+                "value": "7",
+                "text": "40"
+            },
+            {
+                "value": "8",
+                "text": "41"
+            },
+            {
+                "value": "9",
+                "text": "42"
+            },
+            {
+                "value": "10",
+                "text": "43"
+            }
+        ],
+        "badges": [
+            "news"
+        ],
+        "rating": 4.7,
+        "photos": [],
+        "gender": "M",
+        "color": "red",
+        "purpose": [
+            "run",
+            "walk"
+        ],
+        "isDiscount": false,
+        "brand": "nike"
+    }
+]

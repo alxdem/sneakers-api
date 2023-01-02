@@ -1,0 +1,20 @@
+{
+    "name": "sneakers-api",
+    "version": "1.0.0",
+    "description": "Api for sneakers shop site",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon server.js"
+    },
+    "author": "Alexey Demidov",
+    "license": "ISC",
+    "dependencies": {
+        "dotenv": "^16.0.3",
+        "express": "^4.18.2",
+        "mongodb": "^4.13.0",
+        "mongoose": "^6.8.2"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.20"
+    }
+}
