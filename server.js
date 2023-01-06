@@ -1,6 +1,7 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const productRoutes = require('./routes/product-routes');
+const pageRoutes = require('./routes/page-routes');
 require('dotenv').config();
 
 const PORT = 3000;
@@ -10,6 +11,7 @@ const URL = `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASSWORD}@clu
 const app = express();
 app.use(express.json());
 app.use(productRoutes);
+app.use(pageRoutes);
 
 mongoose
     .connect(URL, { useNewUrlParser: true, useUnifiedTopology: true })
