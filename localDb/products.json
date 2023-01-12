@@ -36,6 +36,7 @@
             "walk"
         ],
         "isDiscount": true,
+        "isRecommend": true,
         "brand": "nike"
     },
     {
@@ -78,5 +79,45 @@
         ],
         "isDiscount": false,
         "brand": "nike"
+    },
+    {
+        "modelId": "kinsei-blast",
+        "title": "Kinsei Blast LE",
+        "subtitle": "Men's Shoes",
+        "salePrice": 120,
+        "sizes": [
+            {
+                "value": "6",
+                "text": "39"
+            },
+            {
+                "value": "7",
+                "text": "40"
+            },
+            {
+                "value": "8",
+                "text": "41"
+            },
+            {
+                "value": "9",
+                "text": "42"
+            },
+            {
+                "value": "10",
+                "text": "43"
+            }
+        ],
+        "badges": [],
+        "rating": 4.8,
+        "photos": [],
+        "gender": "M",
+        "color": "green",
+        "purpose": [
+            "run",
+            "walk"
+        ],
+        "isDiscount": false,
+        "isRecommend": true,
+        "brand": "asics"
     }
 ]

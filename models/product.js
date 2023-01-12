@@ -25,6 +25,7 @@ const productSchema = new Schema({
     purpose: [String], // Для чего: бег, футбол, улица
     isDiscount: Boolean,
     brand: String,
+    isRecommend: Boolean,
 });
 
 const Product = mongoose.model('Product', productSchema);
