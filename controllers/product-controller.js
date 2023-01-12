@@ -6,7 +6,7 @@ const handleError = (res, error) => {
 
 const getProducts = (req, res) => {
     Product
-        .find()
+        .find(req.query)
         .sort({ title: 1 })
         .then((products) => {
             res
