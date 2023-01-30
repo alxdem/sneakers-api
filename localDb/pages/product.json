@@ -1,0 +1,187 @@
+{
+    "meta": {
+        "title": "Sneakers pegasus 39 Red",
+        "description": "The best sneakers for summer"
+    },
+    "breadcrumbs": [
+        {
+            "url": "/",
+            "anchor": "Sneakers"
+        },
+        {
+            "url": "/catalog/",
+            "anchor": "Catalog"
+        },
+        {
+            "anchor": "Sneakers pegasus 39 Red"
+        }
+    ],
+    "product": {
+        "modelId": "pegasus-39",
+        "title": "Nike Pegasus 39",
+        "subtitle": "Men's Road Running Shoes",
+        "price": 110,
+        "salePrice": 96,
+        "sizes": [
+            {
+                "value": "1",
+                "text": "36",
+                "isAvailable": false
+            },
+            {
+                "value": "2",
+                "text": "36.5",
+                "isAvailable": false
+            },
+            {
+                "value": "3",
+                "text": "37",
+                "isAvailable": true
+            },
+            {
+                "value": "4",
+                "text": "37.5",
+                "isAvailable": false
+            },
+            {
+                "value": "5",
+                "text": "38",
+                "isAvailable": true
+            },
+            {
+                "value": "6",
+                "text": "38.5",
+                "isAvailable": true
+            },
+            {
+                "value": "7",
+                "text": "39",
+                "isAvailable": true
+            },
+            {
+                "value": "8",
+                "text": "39.5",
+                "isAvailable": true
+            },
+            {
+                "value": "9",
+                "text": "40",
+                "isAvailable": true
+            },
+            {
+                "value": "10",
+                "text": "40.5",
+                "isAvailable": false
+            },
+            {
+                "value": "11",
+                "text": "41",
+                "isAvailable": false
+            },
+            {
+                "value": "12",
+                "text": "41.5",
+                "isAvailable": true
+            },
+            {
+                "value": "13",
+                "text": "42",
+                "isAvailable": true
+            },
+            {
+                "value": "14",
+                "text": "42.5",
+                "isAvailable": true
+            },
+            {
+                "value": "15",
+                "text": "43",
+                "isAvailable": true
+            },
+            {
+                "value": "16",
+                "text": "43.5",
+                "isAvailable": true
+            },
+            {
+                "value": "17",
+                "text": "44",
+                "isAvailable": true
+            },
+            {
+                "value": "18",
+                "text": "44.5",
+                "isAvailable": false
+            },
+            {
+                "value": "19",
+                "text": "45",
+                "isAvailable": false
+            },
+            {
+                "value": "20",
+                "text": "46",
+                "isAvailable": false
+            },
+            {
+                "value": "21",
+                "text": "47",
+                "isAvailable": true
+            },
+            {
+                "value": "22",
+                "text": "48",
+                "isAvailable": false
+            }
+        ],
+        "badges": [
+            "sale",
+            "news"
+        ],
+        "rating": 4.3,
+        "photos": [
+            {
+                "id": "1",
+                "lg": "/pics/sneakers/gel-cumulus-24/gel-cumulus-24-blue/gel-cumulus-24-blue-1.webp"
+            },
+            {
+                "id": "2",
+                "lg": "/pics/sneakers/gel-cumulus-24/gel-cumulus-24-blue/gel-cumulus-24-blue-2.webp"
+            },
+            {
+                "id": "3",
+                "lg": "/pics/sneakers/gel-cumulus-24/gel-cumulus-24-blue/gel-cumulus-24-blue-3.webp"
+            },
+            {
+                "id": "4",
+                "lg": "/pics/sneakers/gel-cumulus-24/gel-cumulus-24-blue/gel-cumulus-24-blue-4.webp"
+            }
+        ],
+        "gender": "M",
+        "color": "green",
+        "purpose": [
+            "run",
+            "walk"
+        ],
+        "isDiscount": true,
+        "isRecommend": true,
+        "brand": "nike",
+        "info": [
+            {
+                "id": "i1",
+                "title": "Description",
+                "text": "<p>The GEL-KINSEI™ Blast shoes are designed for distance runners seeking a smooth stride. Our focus for this trim level approach was to make this design look as good in the streets as it does on race day. Tonal hues on the jacquard mesh upper are met with advanced breathability for running and everyday scenarios.</p><p>An arrangement of GEL™ technology and FF BLAST™ cushioning creates a soft yet responsive step. After easing into the landing phase, the shoe propels you forward with a smooth transition.</p><p>The midsole's shape is inspired by a samurai's curvaceous katana sword. With a Pebax plate in the centre, this feature redirects your movement forward and gives your run a faster feel.</p>"
+            },
+            {
+                "id": "i2",
+                "title": "Pronation",
+                "text": "<h3>Foot Type</h3><p>Normal size arches</p><h3>Push Off</h3><p>There is even distribution from the front of the foot.</p><h3>How your foot contacts the ground</h3><p>The foot lands on outside of the heel, then rolls inward (pronates) to absorb shock and support body weight.</p>"
+            },
+            {
+                "id": "i3",
+                "title": "Tech & Features",
+                "text": "<h3>Engineered knit upper</h3><p>Provides excellent comfort and support</p><h3>FF BLAST™ Cushioning Technology</h3><p>Lightweight, midsole foam with energetic and responsive cushioning and bounce for an efficient ride</p><h3>Rearfoot and Forefoot GEL™ Technology Cushioning System</h3><p>Improves impact absorption and creates a softer feeling at footstrike</p><h3>Pebax Propulsion Plate</h3><p>Helps redirect your energy forward while creating a faster feel underfoot</p><h3>FLYTEFOAM+™ Cushioning Technology</h3><p>Generates lightweight impact absorption and good durability</p><h3>Strategic outsole engineering improves grip and durability</h3>"
+            }
+        ]
+    }
+}

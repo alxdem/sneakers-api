@@ -1,4 +1,9 @@
 const fs = require('fs');
+const Product = require('../models/product');
+
+const handleError = (res, error) => {
+    res.status(500).json({ error });
+};
 
 const getPageMain = (req, res) => {
     fs.readFile('./localDb/pages/main.json', 'utf8', function (err, data) {
@@ -12,6 +17,18 @@ const getPageMain = (req, res) => {
     });
 };
 
+const getPageProduct = (req, res) => {
+    Product
+        .findById(req.params.id)
+        .then((product) => {
+            res
+                .status(200)
+                .json(product);
+        })
+        .catch((err) => handleError(res, err));
+};
+
 module.exports = {
     getPageMain,
+    getPageProduct,
 };
