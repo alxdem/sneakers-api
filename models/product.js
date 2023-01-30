@@ -30,7 +30,13 @@ const productSchema = new Schema({
         }],
         badges: [String],
         rating: Number,
-        photos: [String],
+        photos: [
+            {
+                id: String,
+                lg: String,
+                sm: String,
+            }
+        ],
         gender: String,
         color: String,
         purpose: [String], // Для чего: бег, футбол, улица
