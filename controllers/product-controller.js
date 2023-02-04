@@ -6,7 +6,16 @@ const handleError = (res, error) => {
 
 const getProducts = (req, res) => {
     Product
-        .find(req.query)
+        .find(req.query, {
+            'product.title': 1,
+            'product.subtitle': 1,
+            'product.salePrice': 1,
+            'product.price': 1,
+            'product.badges': 1,
+            'product.rating': 1,
+            'product.modelId': 1,
+            'product.photos': 1,
+        })
         .sort({ title: 1 })
         .then((products) => {
             res
