@@ -1,0 +1,174 @@
+{
+    "meta": {
+        "title": "Gel Game 8 blue",
+        "description": "Gel Game 8 sneakers for run"
+    },
+    "breadcrumbs": [
+        {
+            "url": "/",
+            "anchor": "Sneakers"
+        },
+        {
+            "url": "/catalog/",
+            "anchor": "Catalog"
+        },
+        {
+            "anchor": "Gel Game 8 blue"
+        }
+    ],
+    "product": {
+        "modelId": "gel-game-8",
+        "title": "Gel Game 8 blue",
+        "subtitle": "Best shoes for sport",
+        "price": 105,
+        "salePrice": 80,
+        "sizes": [
+            {
+                "value": "1",
+                "text": "36",
+                "isAvailable": false
+            },
+            {
+                "value": "2",
+                "text": "36.5",
+                "isAvailable": false
+            },
+            {
+                "value": "3",
+                "text": "37",
+                "isAvailable": false
+            },
+            {
+                "value": "4",
+                "text": "37.5",
+                "isAvailable": false
+            },
+            {
+                "value": "5",
+                "text": "38",
+                "isAvailable": false
+            },
+            {
+                "value": "6",
+                "text": "38.5",
+                "isAvailable": true
+            },
+            {
+                "value": "7",
+                "text": "39",
+                "isAvailable": true
+            },
+            {
+                "value": "8",
+                "text": "39.5",
+                "isAvailable": true
+            },
+            {
+                "value": "9",
+                "text": "40",
+                "isAvailable": true
+            },
+            {
+                "value": "10",
+                "text": "40.5",
+                "isAvailable": true
+            },
+            {
+                "value": "11",
+                "text": "41",
+                "isAvailable": false
+            },
+            {
+                "value": "12",
+                "text": "41.5",
+                "isAvailable": true
+            },
+            {
+                "value": "13",
+                "text": "42",
+                "isAvailable": true
+            },
+            {
+                "value": "14",
+                "text": "42.5",
+                "isAvailable": false
+            },
+            {
+                "value": "15",
+                "text": "43",
+                "isAvailable": false
+            },
+            {
+                "value": "16",
+                "text": "43.5",
+                "isAvailable": false
+            },
+            {
+                "value": "17",
+                "text": "44",
+                "isAvailable": true
+            },
+            {
+                "value": "18",
+                "text": "44.5",
+                "isAvailable": false
+            },
+            {
+                "value": "19",
+                "text": "45",
+                "isAvailable": false
+            },
+            {
+                "value": "20",
+                "text": "46",
+                "isAvailable": true
+            },
+            {
+                "value": "21",
+                "text": "47",
+                "isAvailable": true
+            },
+            {
+                "value": "22",
+                "text": "48",
+                "isAvailable": false
+            }
+        ],
+        "badges": [
+            "new",
+            "sale"
+        ],
+        "rating": 2.2,
+        "photos": [
+            {
+                "id": "s1",
+                "lg": "/pics/sneakers/gel-game-8/gel-game-8-blue/gel-game-8-blue-1.webp"
+            },
+            {
+                "id": "s2",
+                "lg": "/pics/sneakers/gel-game-8/gel-game-8-blue/gel-game-8-blue-2.webp"
+            }
+        ],
+        "gender": "W",
+        "color": "blue",
+        "purpose": [
+            "run",
+            "workout"
+        ],
+        "isDiscount": true,
+        "isRecommend": true,
+        "brand": "asics",
+        "info": [
+            {
+                "id": "i1",
+                "title": "Description",
+                "text": "<p>Designed to help keep you on the run, it's super springy and bouncy so that you can propel down your preferred path and come back for your next run feeling ready and reinvigorated.</p>"
+            },
+            {
+                "id": "i3",
+                "title": "Tech & Features",
+                "text": "<h3>FF BLAST™ cushioning creates lightweight impact absorption and a responsive energy return</h3><p>Rearfoot and forefoot GEL™ technology improves impact absorption and creates a softer feeling at footstrike Gender-specific 3D SPACE CONSTRUCTION™ feature addresses different compression rates Engineered mesh upper improves breathability Reflective accents improve visibility in low-light conditions FLYTEFOAM™ cushioning provides lightweight impact absorption The shoe's upper is made with recycled materials to reduce waste and carbon emissions OrthoLite™ X-30 sockliner provides soft step-in comfort Full-ground contact design creates a smoother and more efficient ride</p>"
+            }
+        ]
+    }
+}
