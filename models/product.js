@@ -37,6 +37,7 @@ const productSchema = new Schema({
                 sm: String,
             }
         ],
+        photo: String,
         gender: String,
         color: String,
         purpose: [String], // Для чего: бег, футбол, улица
