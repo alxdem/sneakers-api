@@ -14,7 +14,7 @@ const getProducts = (req, res) => {
             'product.badges': 1,
             'product.rating': 1,
             'product.modelId': 1,
-            'product.photos': 1,
+            'product.photo': 1,
         })
         .sort({ title: 1 })
         .then((products) => {
