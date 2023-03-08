@@ -27,6 +27,7 @@ const productSchema = new Schema({
         sizes: [{
             value: String,
             text: String,
+            isAvailable: Boolean,
         }],
         badges: [String],
         rating: Number,
