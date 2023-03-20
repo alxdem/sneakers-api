@@ -28,7 +28,20 @@ const getPageProduct = (req, res) => {
         .catch((err) => handleError(res, err));
 };
 
+const getPageCatalog = (req, res) => {
+    fs.readFile('./localDb/pages/catalog.json', 'utf8', function (err, data) {
+        if (err) throw err;
+
+        const pageData = JSON.parse(data);
+
+        res
+            .status(200)
+            .json(pageData);
+    });
+};
+
 module.exports = {
     getPageMain,
     getPageProduct,
+    getPageCatalog,
 };
